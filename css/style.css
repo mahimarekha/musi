@@ -345,7 +345,7 @@ a:focus {
 }
 
 .heathy_section {
-  background-image: url(../images/1.jpg);
+  /* background-image: url(../images/1.jpg); */
   background-size: cover;
   background-attachment: fixed;
   color: #ffffff;
@@ -578,7 +578,8 @@ a:focus {
 
 /* footer section*/
 .footer_section {
-  background-color: #fbfdfd;
+  background-color: black;
+  height: 50vh;
   padding: 20px;
   font-weight: 500;
 }
