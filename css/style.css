@@ -71,7 +71,9 @@ body {
       -ms-flex-direction: column;
           flex-direction: column;
   /* background-image: url(../images/1.jpg); */
-  background-image: url(../images/healthy-bg.JPG);
+  /* background-image: url(img_flwr.gif), url(paper.gif); */
+  
+  background-image:  url(../images/headerbg.jpeg);
   background-size: cover;
   background-attachment: fixed;
 }
